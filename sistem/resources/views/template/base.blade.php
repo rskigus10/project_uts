@@ -20,23 +20,23 @@
     <!-- CSS
          ================================================== -->
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="{{url('public')}}/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/bootstrap.min.css" />
     <!-- FontAwesome -->
-    <link rel="stylesheet" href="{{url('public')}}/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/font-awesome.min.css" />
     <!-- Animation -->
-    <link rel="stylesheet" href="{{url('public')}}/css/animate.css" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/animate.css" />
     <!-- Owl Carousel -->
-    <link rel="stylesheet" href="{{url('public')}}/css/owl.carousel.css" />
-    <link rel="stylesheet" href="{{url('public')}}/css/owl.theme.css" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/owl.carousel.css" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/owl.theme.css" />
     <!-- Pretty Photo -->
-    <link rel="stylesheet" href="{{url('public')}}/css/prettyPhoto.css" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/prettyPhoto.css" />
     <!-- Main color style -->
-    <link rel="stylesheet" href="{{url('public')}}/css/red.css" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/red.css" />
     <!-- Template styles-->
-    <link rel="stylesheet" href="{{url('public')}}/css/custom.css" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/custom.css" />
     <!-- Responsive -->
-    <link rel="stylesheet" href="{{url('public')}}/css/responsive.css" />
-    <link rel="stylesheet" href="{{url('public')}}/css/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/responsive.css" />
+    <link rel="stylesheet" href="{{url('public')}}/_srclient/css/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
 
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
     <link href='http://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'>
@@ -72,37 +72,37 @@
 
     <!-- initialize jQuery Library -->
     <!-- Main jquery -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.js"></script>
     <!-- Bootstrap jQuery -->
-    <script src="{{url('public')}}/js/bootstrap.min.js"></script>
+    <script src="{{url('public')}}/_srclient/js/bootstrap.min.js"></script>
     <!-- Owl Carousel -->
-    <script src="{{url('public')}}/js/owl.carousel.min.js"></script>
+    <script src="{{url('public')}}/_srclient/js/owl.carousel.min.js"></script>
     <!-- Isotope -->
-    <script src="{{url('public')}}/js/jquery.isotope.js"></script>
+    <script src="{{url('public')}}/_srclient/js/jquery.isotope.js"></script>
     <!-- Pretty Photo -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.prettyPhoto.js"></script>
     <!-- SmoothScroll -->
-    <script type="text/javascript" src="{{url('public')}}/js/smooth-scroll.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/smooth-scroll.js"></script>
     <!-- Image Fancybox -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.fancybox.pack.js?v=2.1.5"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.fancybox.pack.js?v=2.1.5"></script>
     <!-- Counter  -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.counterup.min.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.counterup.min.js"></script>
     <!-- waypoints -->
-    <script type="text/javascript" src="{{url('public')}}/js/waypoints.min.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/waypoints.min.js"></script>
     <!-- Bx slider -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.bxslider.min.js"></script>
     <!-- Scroll to top -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.scrollTo.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.scrollTo.js"></script>
     <!-- Easing js -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.easing.1.3.js"></script>
     <!-- PrettyPhoto -->
-    <script src="{{url('public')}}/js/jquery.singlePageNav.js"></script>
+    <script src="{{url('public')}}/_srclient/js/jquery.singlePageNav.js"></script>
     <!-- Wow Animation -->
-    <script type="js/javascript" src="{{url('public')}}/js/wow.min.js"></script>
+    <script type="js/javascript" src="{{url('public')}}/_srclient/js/wow.min.js"></script>
     <!-- Google Map  Source -->
-    <script type="text/javascript" src="{{url('public')}}/js/gmaps.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/gmaps.js"></script>
     <!-- Custom js -->
-    <script src="{{url('public')}}/js/custom.js"></script>
+    <script src="{{url('public')}}/_srclient/js/custom.js"></script>
 
 </body>
 
@@ -123,37 +123,37 @@
 
     <!-- initialize jQuery Library -->
     <!-- Main jquery -->
-    <script type="{{url('public')}}/text/javascript" src="{{url('public')}}/js/jquery.js"></script>
+    <script type="{{url('public')}}/_srclient/text/javascript" src="{{url('public')}}/_srclient/js/jquery.js"></script>
     <!-- Bootstrap jQuery -->
     <script src="js/bootstrap.min.js"></script>
     <!-- Owl Carousel -->
-    <script src="{{url('public')}}/js/owl.carousel.min.\js"></script>
+    <script src="{{url('public')}}/_srclient/js/owl.carousel.min.\js"></script>
     <!-- Isotope -->
-    <script src="{{url('public')}}/js/jquery.isotope.js"></script>
+    <script src="{{url('public')}}/_srclient/js/jquery.isotope.js"></script>
     <!-- Pretty Photo -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.prettyPhoto.js"></script>
     <!-- SmoothScroll -->
-    <script type="text/javascript" src="{{url('public')}}/js/smooth-scroll.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/smooth-scroll.js"></script>
     <!-- Image Fancybox -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.fancybox.pack.js?v=2.1.5"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.fancybox.pack.js?v=2.1.5"></script>
     <!-- Counter  -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.counterup.min.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.counterup.min.js"></script>
     <!-- waypoints -->
-    <script type="text/javascript" src="{{url('public')}}/js/waypoints.min.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/waypoints.min.js"></script>
     <!-- Bx slider -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.bxslider.min.js"></script>
     <!-- Scroll to top -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.scrollTo.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.scrollTo.js"></script>
     <!-- Easing js -->
-    <script type="text/javascript" src="{{url('public')}}/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/jquery.easing.1.3.js"></script>
     <!-- PrettyPhoto -->
-    <script src="{{url('public')}}/js/jquery.singlePageNav.js"></script>
+    <script src="{{url('public')}}/_srclient/js/jquery.singlePageNav.js"></script>
     <!-- Wow Animation -->
-    <script type="js/javascript" src="{{url('public')}}/js/wow.min.js"></script>
+    <script type="js/javascript" src="{{url('public')}}/_srclient/js/wow.min.js"></script>
     <!-- Google Map  Source -->
-    <script type="text/javascript" src="{{url('public')}}/js/gmaps.js"></script>
+    <script type="text/javascript" src="{{url('public')}}/_srclient/js/gmaps.js"></script>
     <!-- Custom js -->
-    <script src="{{url('public')}}/js/custom.js"></script>
+    <script src="{{url('public')}}/_srclient/js/custom.js"></script>
 </body>
 
 </html>

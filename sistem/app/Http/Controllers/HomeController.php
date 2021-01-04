@@ -18,7 +18,7 @@ class HomeController extends Controller{
     }
     function show(Artikel $artikel){
         $data['artikel'] = $artikel;    
-        return view('single', $data);
+        return view('template.single', $data);
     }
     function storeKomentar(){
         $komentar = new Komentar;
